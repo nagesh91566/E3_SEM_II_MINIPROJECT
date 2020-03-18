@@ -1,0 +1,66 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+<div class="row">
+    <div class="col-md-12">
+        <!-- DATA TABLE -->
+        <h3 class="title-5 m-b-35">Movie table</h3>
+        <div class="table-responsive table-responsive-data2">
+            <table class="table table-data2">
+                <thead>
+                <tr>
+                    <th>Movie id</th>
+                    <th>Name</th>
+                    <th>Director</th>
+                    <th>Release Date</th>
+                    <th>Average Rating</th>
+                    <th>Genre</th>
+                    <th>Collections(in Crores.)</th>
+                    <th></th>
+                </tr>
+                </thead>
+                {% if movie_list %}
+                    {% for movie in movie_list %}
+                <tbody>
+                <tr class="tr-shadow">
+                    <td>{{movie.movie_id}}</td>
+                    <td class="desc">
+                        <a href="/imdb/movie/{{movie.movie_id}}">{{movie.name}}</a>
+                    </td>
+                    <td class="desc">
+                        <a href="/imdb/director/{{movie.director.director_id}}">{{movie.director.name}}</a>
+                    </td>
+                    <td>{{movie.release_date}}</td>
+                    <td>
+                        <span class="status--high">{{movie.avg_rating}}</span>
+                    </td>
+                    <td>{{movie.genre}}</td>
+                    <td>{{movie.box_office_collection_in_crores}}</td>
+                    <td>
+                        <div class="table-data-feature">
+                            <form method="post">
+                                {% csrf_token %}
+                                <button type="submit"
+                                        class="item"
+                                        data-toggle="tooltip"
+                                        data-placement="top"
+                                        title="Delete">
+                                    <i class="zmdi zmdi-delete"></i>
+                                </button>
+                            </form>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="spacer"></tr>
+                </tbody>
+                {% endfor %}
+                {% endif %}
+            </table>
+        </div>
+        <!-- END DATA TABLE -->
+    </div>
+</div>
+
+{% endblock %}

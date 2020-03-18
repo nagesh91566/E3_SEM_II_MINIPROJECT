@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+<div class="row">
+    <div class="col-md-12">
+        <!-- DATA TABLE -->
+        <h2 class="heading-title m-b-35">{{movies.name}}</h2>
+        <div>
+            <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Baahubali_The_Beginning_Movie_Poster.jpg" height="300" width="300">
+        </div>
+        <div>
+            <p class="director-note">
+
+                {{movies.movie_description}}xx
+            </p>
+        </div>
+
+        <h3 class="title-3 m-b-45">Director: <a href="/imdb/director/{{movies.director.id}}">{{movies.director}}</a></h3>
+
+
+        <h3 class="title-5 m-b-45">Actors</h3>
+        <div class="table-responsive table-responsive-data2">
+            <table class="table table-data2">
+                <thead>
+                <tr>
+                    
+                    <th>Actor id</th>
+                    <th>Name</th>
+                    <th>Date of Birth</th>
+                    <th>Age</th>
+                    <th>Role</th>
+                </tr>
+                </thead>
+
+                {% if roles_of_movie %}
+                {% for cast in roles_of_movie %}
+
+                <tbody>
+                <tr class="tr-shadow">
+                    <td>{{cast.actor.actor_id}}</td>
+                    <td >
+                        <a href="/imdb/actor/{{cast.actor.actor_id}}">{{cast.actor.name}}</a>
+                    </td>
+                    
+                    <td>{{cast.actor.date_of_birth}}</td>
+                    <td>{{cast.actor.age}}</td>
+                    <td>{{cast.role}}</td>
+                <tr class="spacer"></tr>
+                </tbody>
+
+                {% endfor %}
+                {% endif %}
+            </table>
+        </div>
+        <!-- END DATA TABLE -->
+    </div>
+</div>
+
+{% endblock %}

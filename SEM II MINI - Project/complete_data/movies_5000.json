@@ -1,0 +1,1533 @@
+[
+    {
+        "movie_id": "62f62f9b-0d36-4b3a-bcf3-da320bf2b710",
+        "name": "Avatar\u00a0",
+        "duration": "178",
+        "box_office_collection_in_crores": 5323.540929,
+        "budget": "237000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "likes_on_fb": "33000",
+        "num_user_for_reviews": "3054",
+        "imdb_link": "http://www.imdb.com/title/tt0499549/?ref_=fn_tt_tt_1",
+        "year_of_release": "2009",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "886204",
+        "num_critic_for_reviews": "723",
+        "director_name": "James Cameron",
+        "release_date": "",
+        "average_rating": "7.9",
+        "actors": [
+            {
+                "actor_id": "CCH Pounder",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Joel David Moore",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Wes Studi",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "2b8668a0-8b63-48b6-acad-7cceb81e644d",
+        "name": "Pirates of the Caribbean: At World's End\u00a0",
+        "duration": "169",
+        "box_office_collection_in_crores": 2165.829064,
+        "budget": "300000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "likes_on_fb": "0",
+        "num_user_for_reviews": "1238",
+        "imdb_link": "http://www.imdb.com/title/tt0449088/?ref_=fn_tt_tt_1",
+        "year_of_release": "2007",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "471220",
+        "num_critic_for_reviews": "302",
+        "director_name": "Gore Verbinski",
+        "release_date": "",
+        "average_rating": "7.1",
+        "actors": [
+            {
+                "actor_id": "Johnny Depp",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Orlando Bloom",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Jack Davenport",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "2f836cdf-974c-457f-87e8-76c0d20e6c95",
+        "name": "Spectre\u00a0",
+        "duration": "148",
+        "box_office_collection_in_crores": 1400.519225,
+        "budget": "245000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "likes_on_fb": "85000",
+        "num_user_for_reviews": "994",
+        "imdb_link": "http://www.imdb.com/title/tt2379713/?ref_=fn_tt_tt_1",
+        "year_of_release": "2015",
+        "content_rating": "PG-13",
+        "country": "UK",
+        "language": "English",
+        "no_of_users_voted": "275868",
+        "num_critic_for_reviews": "602",
+        "director_name": "Sam Mendes",
+        "release_date": "",
+        "average_rating": "6.8",
+        "actors": [
+            {
+                "actor_id": "Christoph Waltz",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Rory Kinnear",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Stephanie Sigman",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "095fbf0f-d367-48dc-bd92-9883b6eadb93",
+        "name": "The Dark Knight Rises\u00a0",
+        "duration": "164",
+        "box_office_collection_in_crores": 3136.914494,
+        "budget": "250000000",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "likes_on_fb": "164000",
+        "num_user_for_reviews": "2701",
+        "imdb_link": "http://www.imdb.com/title/tt1345836/?ref_=fn_tt_tt_1",
+        "year_of_release": "2012",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "1144337",
+        "num_critic_for_reviews": "813",
+        "director_name": "Christopher Nolan",
+        "release_date": "",
+        "average_rating": "8.5",
+        "actors": [
+            {
+                "actor_id": "Tom Hardy",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Christian Bale",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Joseph Gordon-Levitt",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "cfe49ff7-5307-4372-b78a-31000868812d",
+        "name": "Star Wars: Episode VII - The Force Awakens\u00a0            ",
+        "duration": "",
+        "box_office_collection_in_crores": 0,
+        "budget": "",
+        "genres": [
+            "Documentary"
+        ],
+        "likes_on_fb": "0",
+        "num_user_for_reviews": "",
+        "imdb_link": "http://www.imdb.com/title/tt5289954/?ref_=fn_tt_tt_1",
+        "year_of_release": "",
+        "content_rating": "",
+        "country": "",
+        "language": "",
+        "no_of_users_voted": "8",
+        "num_critic_for_reviews": "",
+        "director_name": "Doug Walker",
+        "release_date": "",
+        "average_rating": "7.1",
+        "actors": [
+            {
+                "actor_id": "Doug Walker",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Rob Walker",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "f8c70cf9-1616-4100-8ceb-05738a8fb1ba",
+        "name": "John Carter\u00a0",
+        "duration": "132",
+        "box_office_collection_in_crores": 511.410753,
+        "budget": "263700000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "likes_on_fb": "24000",
+        "num_user_for_reviews": "738",
+        "imdb_link": "http://www.imdb.com/title/tt0401729/?ref_=fn_tt_tt_1",
+        "year_of_release": "2012",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "212204",
+        "num_critic_for_reviews": "462",
+        "director_name": "Andrew Stanton",
+        "release_date": "",
+        "average_rating": "6.6",
+        "actors": [
+            {
+                "actor_id": "Daryl Sabara",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Samantha Morton",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Polly Walker",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "167ef0b9-2413-4301-8a6d-d8217c4219e5",
+        "name": "Spider-Man 3\u00a0",
+        "duration": "156",
+        "box_office_collection_in_crores": 2355.712121,
+        "budget": "258000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Romance"
+        ],
+        "likes_on_fb": "0",
+        "num_user_for_reviews": "1902",
+        "imdb_link": "http://www.imdb.com/title/tt0413300/?ref_=fn_tt_tt_1",
+        "year_of_release": "2007",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "383056",
+        "num_critic_for_reviews": "392",
+        "director_name": "Sam Raimi",
+        "release_date": "",
+        "average_rating": "6.2",
+        "actors": [
+            {
+                "actor_id": "J.K. Simmons",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "James Franco",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Kirsten Dunst",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "fb82cea5-2dc6-496a-b183-a1618d185056",
+        "name": "Tangled\u00a0",
+        "duration": "100",
+        "box_office_collection_in_crores": 1405.650834,
+        "budget": "260000000",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy",
+            "Musical",
+            "Romance"
+        ],
+        "likes_on_fb": "29000",
+        "num_user_for_reviews": "387",
+        "imdb_link": "http://www.imdb.com/title/tt0398286/?ref_=fn_tt_tt_1",
+        "year_of_release": "2010",
+        "content_rating": "PG",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "294810",
+        "num_critic_for_reviews": "324",
+        "director_name": "Nathan Greno",
+        "release_date": "",
+        "average_rating": "7.8",
+        "actors": [
+            {
+                "actor_id": "Brad Garrett",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Donna Murphy",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "M.C. Gainey",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "23f81cc9-1e35-448c-b0eb-90d90dab75f2",
+        "name": "Avengers: Age of Ultron\u00a0",
+        "duration": "141",
+        "box_office_collection_in_crores": 3212.941193,
+        "budget": "250000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "likes_on_fb": "118000",
+        "num_user_for_reviews": "1117",
+        "imdb_link": "http://www.imdb.com/title/tt2395427/?ref_=fn_tt_tt_1",
+        "year_of_release": "2015",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "462669",
+        "num_critic_for_reviews": "635",
+        "director_name": "Joss Whedon",
+        "release_date": "",
+        "average_rating": "7.5",
+        "actors": [
+            {
+                "actor_id": "Chris Hemsworth",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Robert Downey Jr.",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Scarlett Johansson",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "fa0efdff-df95-48c6-bbf2-e73a71f4db2c",
+        "name": "Harry Potter and the Half-Blood Prince\u00a0",
+        "duration": "153",
+        "box_office_collection_in_crores": 2113.69886,
+        "budget": "250000000",
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy",
+            "Mystery"
+        ],
+        "likes_on_fb": "10000",
+        "num_user_for_reviews": "973",
+        "imdb_link": "http://www.imdb.com/title/tt0417741/?ref_=fn_tt_tt_1",
+        "year_of_release": "2009",
+        "content_rating": "PG",
+        "country": "UK",
+        "language": "English",
+        "no_of_users_voted": "321795",
+        "num_critic_for_reviews": "375",
+        "director_name": "David Yates",
+        "release_date": "",
+        "average_rating": "7.5",
+        "actors": [
+            {
+                "actor_id": "Alan Rickman",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Daniel Radcliffe",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Rupert Grint",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "33564a4a-7204-4f04-8c57-df4ffa16dac6",
+        "name": "Batman v Superman: Dawn of Justice\u00a0",
+        "duration": "183",
+        "box_office_collection_in_crores": 2311.743434,
+        "budget": "250000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "likes_on_fb": "197000",
+        "num_user_for_reviews": "3018",
+        "imdb_link": "http://www.imdb.com/title/tt2975590/?ref_=fn_tt_tt_1",
+        "year_of_release": "2016",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "371639",
+        "num_critic_for_reviews": "673",
+        "director_name": "Zack Snyder",
+        "release_date": "",
+        "average_rating": "6.9",
+        "actors": [
+            {
+                "actor_id": "Henry Cavill",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Lauren Cohan",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Alan D. Purwin",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "b37850e6-7d99-4947-a4ac-28bd21073ad3",
+        "name": "Superman Returns\u00a0",
+        "duration": "169",
+        "box_office_collection_in_crores": 1400.485856,
+        "budget": "209000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "likes_on_fb": "0",
+        "num_user_for_reviews": "2367",
+        "imdb_link": "http://www.imdb.com/title/tt0348150/?ref_=fn_tt_tt_1",
+        "year_of_release": "2006",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "240396",
+        "num_critic_for_reviews": "434",
+        "director_name": "Bryan Singer",
+        "release_date": "",
+        "average_rating": "6.1",
+        "actors": [
+            {
+                "actor_id": "Kevin Spacey",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Marlon Brando",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Frank Langella",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "d64a4820-6502-4afd-8850-d1735dc66179",
+        "name": "Quantum of Solace\u00a0",
+        "duration": "106",
+        "box_office_collection_in_crores": 1178.578989,
+        "budget": "200000000",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "likes_on_fb": "0",
+        "num_user_for_reviews": "1243",
+        "imdb_link": "http://www.imdb.com/title/tt0830515/?ref_=fn_tt_tt_1",
+        "year_of_release": "2008",
+        "content_rating": "PG-13",
+        "country": "UK",
+        "language": "English",
+        "no_of_users_voted": "330784",
+        "num_critic_for_reviews": "403",
+        "director_name": "Marc Forster",
+        "release_date": "",
+        "average_rating": "6.7",
+        "actors": [
+            {
+                "actor_id": "Giancarlo Giannini",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Mathieu Amalric",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Rory Kinnear",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "53f0a43d-4bde-4b21-b968-fdb90668e005",
+        "name": "Pirates of the Caribbean: Dead Man's Chest\u00a0",
+        "duration": "151",
+        "box_office_collection_in_crores": 2961.228396,
+        "budget": "225000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "likes_on_fb": "5000",
+        "num_user_for_reviews": "1832",
+        "imdb_link": "http://www.imdb.com/title/tt0383574/?ref_=fn_tt_tt_1",
+        "year_of_release": "2006",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "522040",
+        "num_critic_for_reviews": "313",
+        "director_name": "Gore Verbinski",
+        "release_date": "",
+        "average_rating": "7.3",
+        "actors": [
+            {
+                "actor_id": "Johnny Depp",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Orlando Bloom",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Jack Davenport",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "52121762-1192-4ba7-810c-32ebe3ddd8dc",
+        "name": "The Lone Ranger\u00a0",
+        "duration": "150",
+        "box_office_collection_in_crores": 625.02937,
+        "budget": "215000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Western"
+        ],
+        "likes_on_fb": "48000",
+        "num_user_for_reviews": "711",
+        "imdb_link": "http://www.imdb.com/title/tt1210819/?ref_=fn_tt_tt_1",
+        "year_of_release": "2013",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "181792",
+        "num_critic_for_reviews": "450",
+        "director_name": "Gore Verbinski",
+        "release_date": "",
+        "average_rating": "6.5",
+        "actors": [
+            {
+                "actor_id": "Johnny Depp",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Ruth Wilson",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Tom Wilkinson",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "b723a0ef-08e1-45d2-8a0b-78dab2278d88",
+        "name": "Man of Steel\u00a0",
+        "duration": "143",
+        "box_office_collection_in_crores": 2037.150955,
+        "budget": "225000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "likes_on_fb": "118000",
+        "num_user_for_reviews": "2536",
+        "imdb_link": "http://www.imdb.com/title/tt0770828/?ref_=fn_tt_tt_1",
+        "year_of_release": "2013",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "548573",
+        "num_critic_for_reviews": "733",
+        "director_name": "Zack Snyder",
+        "release_date": "",
+        "average_rating": "7.2",
+        "actors": [
+            {
+                "actor_id": "Henry Cavill",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Christopher Meloni",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Harry Lennix",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "f1f4051d-30d8-4e55-add8-7691845da27d",
+        "name": "The Chronicles of Narnia: Prince Caspian\u00a0",
+        "duration": "150",
+        "box_office_collection_in_crores": 991.298161,
+        "budget": "225000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "likes_on_fb": "0",
+        "num_user_for_reviews": "438",
+        "imdb_link": "http://www.imdb.com/title/tt0499448/?ref_=fn_tt_tt_1",
+        "year_of_release": "2008",
+        "content_rating": "PG",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "149922",
+        "num_critic_for_reviews": "258",
+        "director_name": "Andrew Adamson",
+        "release_date": "",
+        "average_rating": "6.6",
+        "actors": [
+            {
+                "actor_id": "Peter Dinklage",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Pierfrancesco Favino",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Dami\u00e1n Alc\u00e1zar",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "10302b26-6b4a-4df5-be88-08324b883232",
+        "name": "The Avengers\u00a0",
+        "duration": "173",
+        "box_office_collection_in_crores": 4362.956829,
+        "budget": "220000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "likes_on_fb": "123000",
+        "num_user_for_reviews": "1722",
+        "imdb_link": "http://www.imdb.com/title/tt0848228/?ref_=fn_tt_tt_1",
+        "year_of_release": "2012",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "995415",
+        "num_critic_for_reviews": "703",
+        "director_name": "Joss Whedon",
+        "release_date": "",
+        "average_rating": "8.1",
+        "actors": [
+            {
+                "actor_id": "Chris Hemsworth",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Robert Downey Jr.",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Scarlett Johansson",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "b060992d-b96a-4d44-a643-251d9de24a1b",
+        "name": "Pirates of the Caribbean: On Stranger Tides\u00a0",
+        "duration": "136",
+        "box_office_collection_in_crores": 1687.447125,
+        "budget": "250000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "likes_on_fb": "58000",
+        "num_user_for_reviews": "484",
+        "imdb_link": "http://www.imdb.com/title/tt1298650/?ref_=fn_tt_tt_1",
+        "year_of_release": "2011",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "370704",
+        "num_critic_for_reviews": "448",
+        "director_name": "Rob Marshall",
+        "release_date": "",
+        "average_rating": "6.7",
+        "actors": [
+            {
+                "actor_id": "Johnny Depp",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Sam Claflin",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Stephen Graham",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "031056b7-f162-447e-934a-d6e64f49a1a3",
+        "name": "Men in Black 3\u00a0",
+        "duration": "106",
+        "box_office_collection_in_crores": 1253.145978,
+        "budget": "225000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Family",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "likes_on_fb": "40000",
+        "num_user_for_reviews": "341",
+        "imdb_link": "http://www.imdb.com/title/tt1409024/?ref_=fn_tt_tt_1",
+        "year_of_release": "2012",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "268154",
+        "num_critic_for_reviews": "451",
+        "director_name": "Barry Sonnenfeld",
+        "release_date": "",
+        "average_rating": "6.8",
+        "actors": [
+            {
+                "actor_id": "Will Smith",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Michael Stuhlbarg",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Nicole Scherzinger",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "1f61a514-692d-4d1c-ae49-01b9c5ae6f41",
+        "name": "The Hobbit: The Battle of the Five Armies\u00a0",
+        "duration": "164",
+        "box_office_collection_in_crores": 1785.75859,
+        "budget": "250000000",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "likes_on_fb": "65000",
+        "num_user_for_reviews": "802",
+        "imdb_link": "http://www.imdb.com/title/tt2310332/?ref_=fn_tt_tt_1",
+        "year_of_release": "2014",
+        "content_rating": "PG-13",
+        "country": "New Zealand",
+        "language": "English",
+        "no_of_users_voted": "354228",
+        "num_critic_for_reviews": "422",
+        "director_name": "Peter Jackson",
+        "release_date": "",
+        "average_rating": "7.5",
+        "actors": [
+            {
+                "actor_id": "Aidan Turner",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Adam Brown",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "James Nesbitt",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "8f39bbc5-32b1-4270-b33a-ea7564344683",
+        "name": "The Amazing Spider-Man\u00a0",
+        "duration": "153",
+        "box_office_collection_in_crores": 1834.214641,
+        "budget": "230000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "likes_on_fb": "56000",
+        "num_user_for_reviews": "1225",
+        "imdb_link": "http://www.imdb.com/title/tt0948470/?ref_=fn_tt_tt_1",
+        "year_of_release": "2012",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "451803",
+        "num_critic_for_reviews": "599",
+        "director_name": "Marc Webb",
+        "release_date": "",
+        "average_rating": "7.0",
+        "actors": [
+            {
+                "actor_id": "Emma Stone",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Andrew Garfield",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Chris Zylka",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "b0f342bb-92cb-4550-94a1-f52eb09c1511",
+        "name": "Robin Hood\u00a0",
+        "duration": "156",
+        "box_office_collection_in_crores": 736.538145,
+        "budget": "200000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "History"
+        ],
+        "likes_on_fb": "17000",
+        "num_user_for_reviews": "546",
+        "imdb_link": "http://www.imdb.com/title/tt0955308/?ref_=fn_tt_tt_1",
+        "year_of_release": "2010",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "211765",
+        "num_critic_for_reviews": "343",
+        "director_name": "Ridley Scott",
+        "release_date": "",
+        "average_rating": "6.7",
+        "actors": [
+            {
+                "actor_id": "Mark Addy",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "William Hurt",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Scott Grimes",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "7eb62050-e25e-4af4-953a-f87404f2bd24",
+        "name": "The Hobbit: The Desolation of Smaug\u00a0",
+        "duration": "186",
+        "box_office_collection_in_crores": 1808.487478,
+        "budget": "225000000",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "likes_on_fb": "83000",
+        "num_user_for_reviews": "951",
+        "imdb_link": "http://www.imdb.com/title/tt1170358/?ref_=fn_tt_tt_1",
+        "year_of_release": "2013",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "483540",
+        "num_critic_for_reviews": "509",
+        "director_name": "Peter Jackson",
+        "release_date": "",
+        "average_rating": "7.9",
+        "actors": [
+            {
+                "actor_id": "Aidan Turner",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Adam Brown",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "James Nesbitt",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "abf2e9e5-01b7-4129-9f13-bdcb57239acb",
+        "name": "The Golden Compass\u00a0",
+        "duration": "113",
+        "box_office_collection_in_crores": 490.584633,
+        "budget": "180000000",
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "likes_on_fb": "0",
+        "num_user_for_reviews": "666",
+        "imdb_link": "http://www.imdb.com/title/tt0385752/?ref_=fn_tt_tt_1",
+        "year_of_release": "2007",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "149019",
+        "num_critic_for_reviews": "251",
+        "director_name": "Chris Weitz",
+        "release_date": "",
+        "average_rating": "6.1",
+        "actors": [
+            {
+                "actor_id": "Christopher Lee",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Eva Green",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Kristin Scott Thomas",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "69ca0307-89b5-4d91-b101-1af22fb3fe71",
+        "name": "King Kong\u00a0",
+        "duration": "201",
+        "box_office_collection_in_crores": 1526.35882,
+        "budget": "207000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Romance"
+        ],
+        "likes_on_fb": "0",
+        "num_user_for_reviews": "2618",
+        "imdb_link": "http://www.imdb.com/title/tt0360717/?ref_=fn_tt_tt_1",
+        "year_of_release": "2005",
+        "content_rating": "PG-13",
+        "country": "New Zealand",
+        "language": "English",
+        "no_of_users_voted": "316018",
+        "num_critic_for_reviews": "446",
+        "director_name": "Peter Jackson",
+        "release_date": "",
+        "average_rating": "7.2",
+        "actors": [
+            {
+                "actor_id": "Naomi Watts",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Thomas Kretschmann",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Evan Parke",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "cfb7f3c6-297b-4d9f-b47b-dfef688f76a4",
+        "name": "Titanic\u00a0",
+        "duration": "194",
+        "box_office_collection_in_crores": 4610.706114,
+        "budget": "200000000",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "likes_on_fb": "26000",
+        "num_user_for_reviews": "2528",
+        "imdb_link": "http://www.imdb.com/title/tt0120338/?ref_=fn_tt_tt_1",
+        "year_of_release": "1997",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "793059",
+        "num_critic_for_reviews": "315",
+        "director_name": "James Cameron",
+        "release_date": "",
+        "average_rating": "7.7",
+        "actors": [
+            {
+                "actor_id": "Leonardo DiCaprio",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Kate Winslet",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Gloria Stuart",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "04a9c794-cc2f-494a-be32-3c1afdb76505",
+        "name": "Captain America: Civil War\u00a0",
+        "duration": "147",
+        "box_office_collection_in_crores": 2850.380974,
+        "budget": "250000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "likes_on_fb": "72000",
+        "num_user_for_reviews": "1022",
+        "imdb_link": "http://www.imdb.com/title/tt3498820/?ref_=fn_tt_tt_1",
+        "year_of_release": "2016",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "272670",
+        "num_critic_for_reviews": "516",
+        "director_name": "Anthony Russo",
+        "release_date": "",
+        "average_rating": "8.2",
+        "actors": [
+            {
+                "actor_id": "Robert Downey Jr.",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Scarlett Johansson",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Chris Evans",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "f69cf7e4-1c49-43d9-abc5-b13dc1c69ad4",
+        "name": "Battleship\u00a0",
+        "duration": "131",
+        "box_office_collection_in_crores": 456.21212,
+        "budget": "209000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "likes_on_fb": "44000",
+        "num_user_for_reviews": "751",
+        "imdb_link": "http://www.imdb.com/title/tt1440129/?ref_=fn_tt_tt_1",
+        "year_of_release": "2012",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "202382",
+        "num_critic_for_reviews": "377",
+        "director_name": "Peter Berg",
+        "release_date": "",
+        "average_rating": "5.9",
+        "actors": [
+            {
+                "actor_id": "Liam Neeson",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Alexander Skarsg\u00e5rd",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Tadanobu Asano",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "e5daf577-42f7-44fa-af94-713a0115397e",
+        "name": "Jurassic World\u00a0",
+        "duration": "124",
+        "box_office_collection_in_crores": 4565.240897,
+        "budget": "150000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "likes_on_fb": "150000",
+        "num_user_for_reviews": "1290",
+        "imdb_link": "http://www.imdb.com/title/tt0369610/?ref_=fn_tt_tt_1",
+        "year_of_release": "2015",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "418214",
+        "num_critic_for_reviews": "644",
+        "director_name": "Colin Trevorrow",
+        "release_date": "",
+        "average_rating": "7.0",
+        "actors": [
+            {
+                "actor_id": "Bryce Dallas Howard",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Judy Greer",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Omar Sy",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "ef0f1cf0-d375-4e29-acc0-0baf6467c26a",
+        "name": "Skyfall\u00a0",
+        "duration": "143",
+        "box_office_collection_in_crores": 2130.521939,
+        "budget": "200000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "likes_on_fb": "80000",
+        "num_user_for_reviews": "1498",
+        "imdb_link": "http://www.imdb.com/title/tt1074638/?ref_=fn_tt_tt_1",
+        "year_of_release": "2012",
+        "content_rating": "PG-13",
+        "country": "UK",
+        "language": "English",
+        "no_of_users_voted": "522030",
+        "num_critic_for_reviews": "750",
+        "director_name": "Sam Mendes",
+        "release_date": "",
+        "average_rating": "7.8",
+        "actors": [
+            {
+                "actor_id": "Albert Finney",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Helen McCrory",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Rory Kinnear",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "18e749c2-b43f-4cc9-9ad0-a9a95036b460",
+        "name": "Spider-Man 2\u00a0",
+        "duration": "135",
+        "box_office_collection_in_crores": 2613.645251,
+        "budget": "200000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+        ],
+        "likes_on_fb": "0",
+        "num_user_for_reviews": "1303",
+        "imdb_link": "http://www.imdb.com/title/tt0316654/?ref_=fn_tt_tt_1",
+        "year_of_release": "2004",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "411164",
+        "num_critic_for_reviews": "300",
+        "director_name": "Sam Raimi",
+        "release_date": "",
+        "average_rating": "7.3",
+        "actors": [
+            {
+                "actor_id": "J.K. Simmons",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "James Franco",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Kirsten Dunst",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "87a006c5-2273-41df-8a42-fbfb5cddac30",
+        "name": "Iron Man 3\u00a0",
+        "duration": "195",
+        "box_office_collection_in_crores": 2862.945904,
+        "budget": "200000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "likes_on_fb": "95000",
+        "num_user_for_reviews": "1187",
+        "imdb_link": "http://www.imdb.com/title/tt1300854/?ref_=fn_tt_tt_1",
+        "year_of_release": "2013",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "557489",
+        "num_critic_for_reviews": "608",
+        "director_name": "Shane Black",
+        "release_date": "",
+        "average_rating": "7.2",
+        "actors": [
+            {
+                "actor_id": "Robert Downey Jr.",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Jon Favreau",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Don Cheadle",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "d0930fc2-d329-4428-b715-a3d7a7dc45d2",
+        "name": "Alice in Wonderland\u00a0",
+        "duration": "108",
+        "box_office_collection_in_crores": 2339.296442,
+        "budget": "200000000",
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "likes_on_fb": "24000",
+        "num_user_for_reviews": "736",
+        "imdb_link": "http://www.imdb.com/title/tt1014759/?ref_=fn_tt_tt_1",
+        "year_of_release": "2010",
+        "content_rating": "PG",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "306320",
+        "num_critic_for_reviews": "451",
+        "director_name": "Tim Burton",
+        "release_date": "",
+        "average_rating": "6.5",
+        "actors": [
+            {
+                "actor_id": "Johnny Depp",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Alan Rickman",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Anne Hathaway",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "67f391a2-5302-4235-965a-22341be14bb1",
+        "name": "X-Men: The Last Stand\u00a0",
+        "duration": "104",
+        "box_office_collection_in_crores": 1640.520098,
+        "budget": "210000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "likes_on_fb": "0",
+        "num_user_for_reviews": "1912",
+        "imdb_link": "http://www.imdb.com/title/tt0376994/?ref_=fn_tt_tt_1",
+        "year_of_release": "2006",
+        "content_rating": "PG-13",
+        "country": "Canada",
+        "language": "English",
+        "no_of_users_voted": "383427",
+        "num_critic_for_reviews": "334",
+        "director_name": "Brett Ratner",
+        "release_date": "",
+        "average_rating": "6.8",
+        "actors": [
+            {
+                "actor_id": "Hugh Jackman",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Kelsey Grammer",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Daniel Cudmore",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "491eaf97-36a6-41f0-b24f-eb0ddab329d1",
+        "name": "Monsters University\u00a0",
+        "duration": "104",
+        "box_office_collection_in_crores": 1879.418303,
+        "budget": "200000000",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "likes_on_fb": "44000",
+        "num_user_for_reviews": "265",
+        "imdb_link": "http://www.imdb.com/title/tt1453405/?ref_=fn_tt_tt_1",
+        "year_of_release": "2013",
+        "content_rating": "G",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "235025",
+        "num_critic_for_reviews": "376",
+        "director_name": "Dan Scanlon",
+        "release_date": "",
+        "average_rating": "7.3",
+        "actors": [
+            {
+                "actor_id": "Steve Buscemi",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Tyler Labine",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Sean Hayes",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    },
+    {
+        "movie_id": "34c0dad7-ab60-4988-9898-35e0cdaf10a9",
+        "name": "Transformers: Revenge of the Fallen\u00a0",
+        "duration": "150",
+        "box_office_collection_in_crores": 2814.536823,
+        "budget": "200000000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "likes_on_fb": "0",
+        "num_user_for_reviews": "1439",
+        "imdb_link": "http://www.imdb.com/title/tt1055369/?ref_=fn_tt_tt_1",
+        "year_of_release": "2009",
+        "content_rating": "PG-13",
+        "country": "USA",
+        "language": "English",
+        "no_of_users_voted": "323207",
+        "num_critic_for_reviews": "366",
+        "director_name": "Michael Bay",
+        "release_date": "",
+        "average_rating": "6.0",
+        "actors": [
+            {
+                "actor_id": "Glenn Morshower",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Kevin Dunn",
+                "role": "",
+                "is_debut_movie": false
+            },
+            {
+                "actor_id": "Ramon Rodriguez",
+                "role": "",
+                "is_debut_movie": false
+            }
+        ]
+    }
+    
+ ]
